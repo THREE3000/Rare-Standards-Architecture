@@ -1,8 +1,3 @@
-# Rare-Standards-Architecture
-
-It weaves your technical e-commerce skills together with your background in logistics, compliance, and standard operating procedures (SOPs) to show employers that you understand both the code and the business operations behind it.
-
-Markdown
 # Rare Standards: Automated E-Commerce & Fulfillment Architecture
 
 **Author:** Arabia Brooks-Porter  
