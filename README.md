@@ -1,7 +1,5 @@
 # Rare-Standards-Architecture
 
-Here is a complete, professional README.md template for your Rare-Standards-Architecture repository. It is written in Markdown format, so you can copy and paste this directly into GitHub.
-
 It weaves your technical e-commerce skills together with your background in logistics, compliance, and standard operating procedures (SOPs) to show employers that you understand both the code and the business operations behind it.
 
 Markdown
